@@ -60,11 +60,12 @@ Busco aprimorar constantemente minhas habilidades para me tornar um **Desenvolve
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java" 
+    alt="Python" 
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/1854b9d9-44d9-4822-9bbd-45a6d3e6eeff" />
+" 
 />
 <img 
     align="left" 
