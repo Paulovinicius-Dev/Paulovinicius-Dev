@@ -64,7 +64,8 @@ Busco aprimorar constantemente minhas habilidades para me tornar um **Desenvolve
     title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/a7beff9a-29da-4096-aade-3ef33109ba7d" />
+    src="https://github.com/user-attachments/assets/e6d226c0-19bd-45ca-b0e7-63620d63ca84" />
+" />
 " />
 " 
 />
