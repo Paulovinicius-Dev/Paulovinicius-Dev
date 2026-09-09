@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Paulo vinicius, tenho 20 anos e sou natural de Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UDF.
+Me chamo Paulo vinicius, tenho 21 anos e sou natural de Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UDF.
 
 Busco aprimorar constantemente minhas habilidades para me tornar um **Desenvolvedor FullStack** e estou sempre aberto a novos desafios e aprendizados.
 
